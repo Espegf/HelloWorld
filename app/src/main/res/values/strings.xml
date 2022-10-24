@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Hello_world">Hello World!</string>
+    <string name="como">¿Cómo te llamas?</string>
+    <string name="nombre">Introduzca su nombre</string>
+    <string name="pulse_para_saludar">PULSE PARA SALUDAR</string>
+</resources>
